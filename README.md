@@ -2,7 +2,7 @@
 - 👀 I’m interested in marketing tecnologic
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on Marketing Projects and tecnoligcs 
-- 📫 How to reach me send me a whatsapp +55 21 99259 4941 or e-mail victor.restel@hotmail.com
+- 📫 How to reach me send me a whatsapp e-mail eu@victorrestel.com
 
 <!---
 victorrestel/victorrestel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
